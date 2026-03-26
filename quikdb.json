@@ -1,0 +1,7 @@
+{
+  "name": "quikdb-test-quikdb-json",
+  "runtime": "nodejs",
+  "buildCommand": "echo 'No build step needed'",
+  "startCommand": "node index.js",
+  "port": 3000
+}
